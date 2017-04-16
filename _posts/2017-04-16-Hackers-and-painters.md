@@ -1,6 +1,6 @@
 ---
-layout:post
-title:关注贫富分化
+layout: post
+title: Hackers and painters
 ---
 当人们非常想把某件事做好时，有些人会做得比其他人好得多。
 为什么人们仇富？
